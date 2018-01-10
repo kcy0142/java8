@@ -11,7 +11,7 @@ public class dateTest {
 	//http://kwseo.github.io/java/2016/02/10/java8-about-date-2.html
 	public static void main(String[] args) {
 		
-		    System.out.println("==================localDateTest==================local=dd====");
+		    System.out.println("==================localDateTest========000==========local=dd====");
 			System.out.println();
 	        LocalDate today = LocalDate.now();
 	        System.out.println(today);//2017-09-18
